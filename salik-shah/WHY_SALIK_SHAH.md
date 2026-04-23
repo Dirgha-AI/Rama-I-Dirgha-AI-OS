@@ -1,7 +1,5 @@
 # The Architect’s Intent: From Speculative Fiction to Civilizational Engineering
-**X: [@salik](https://x.com/salik)**
-
-![Salik Shah](https://salikshah.com/wp-content/uploads/2018/06/Salik_Khoj-17.jpg)
+**X: [@salik](https://x.com/salik) | [Press Kit / Photographs](README.md#%EF%B8%8F-press-kit-photographs)**
 
 The transition from a science fiction publisher to the architect of an Agentic OS is not a pivot—it is the unification of a life spent at the frontier.
  I am a **polymath and a self-taught writer-technologist**; I grew up in the "secret alphabets" of the digital world before I ever published a poem. 
