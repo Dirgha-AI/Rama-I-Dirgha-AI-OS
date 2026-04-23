@@ -49,9 +49,16 @@ Salik is the founder of ***Mithila Review***, an international journal of scienc
 ### Akhand Records
 Envisioned to be the home of music encompassing the land, from the Himalayas to the Hind Mahasagar—one land and civilization.
 
-*   **Single:** [Vibe Bharat](https://github.com/Dirgha-AI/Rama-I-Dirgha-AI-OS/tree/main/vibe-bharat)
-*   **Album: Salik Shah Vol 1**
-    Salik grew up in Kathmandu, and this album collects his earliest work from his teens until now. A collection of 10 Nepali-language songs exploring themes of love, loss, and destiny. Available on Spotify, YouTube, and Amazon.
+---
+
+#### **Vibe Bharat (Single)**
+The anthem of civilizational pride, blending modern sound with ancient spirit.  
+[**Watch & Listen**](vibe-bharat/README.md)
+
+#### **Salik Shah Vol 1 (Album)**
+A chronological archive of Salik’s musical journey, beginning in his teens in Kathmandu. This collection of 10 Nepali-language songs serves as a sonic bridge between past and present, exploring the timeless themes of love, loss, and destiny.
+
+**Listen:** [Spotify](https://open.spotify.com/album/1XsohNClJoFekV6NuOBoXk) | [Amazon Music](https://music.amazon.in/albums/B0FSP61FV3) | [YouTube](https://www.youtube.com/channel/UCcRhTFTRHvDNF_Oh_YVh0vw)
 
 ---
 
