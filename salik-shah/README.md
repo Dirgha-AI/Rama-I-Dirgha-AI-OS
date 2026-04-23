@@ -26,7 +26,7 @@ Through a fictional account of the discovery of the number **Zero**, Salik talks
 
 ## 🎙️ Interviews
 *   **[Interview with Cixin Liu](interview-with-cixin-liu/ENGLISH.md)** — A bilingual discussion on global SF and human civilization.
-*   **[Salik Shah: The Polymath of Speculative Fiction and Engineering](INTERVIEW_YEMBARWAR.md)** — An in-depth conversation on bridging narrative, world-building, and technological infrastructure.
+*   **[Salik Shah: On Being a Polymath](INTERVIEW_YEMBARWAR.md)** — An in-depth conversation on bridging narrative, world-building, and technological infrastructure.
 
 ---
 

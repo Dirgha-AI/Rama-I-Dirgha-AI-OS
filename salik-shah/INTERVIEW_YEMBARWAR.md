@@ -1,4 +1,4 @@
-# An Interview with Salik Shah
+# Salik Shah: On Being a Polymath
 **Editor of Mithila Review and a Creative Polymath**
 
 *Originally published by Ayush Yembarwar (September 20, 2021)*  
