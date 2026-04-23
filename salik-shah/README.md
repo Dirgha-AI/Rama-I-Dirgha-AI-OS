@@ -14,6 +14,14 @@ His creative projects include the **Akhand Saga**, a multi-series science fantas
 
 ---
 
+## 📈 Strategic Growth & Scale
+Salik is a recognized strategist in the **top 1% of marketing talent globally**, with 15+ years of experience working with global startups and Fortune 500 companies. He specializes in ROI-driven design and narrative-led growth.
+
+*   **Jaago Re! (Tata Group):** Led the digital strategy and mass-mobilization for one of India's most iconic social awareness campaigns, proving the ability to scale complex narratives to a billion people.
+*   **Fractional CMO & Advisor:** Vetted as an expert in launching, pivoting, and scaling businesses at the intersection of data-driven strategy and high-stakes storytelling.
+
+---
+
 ## 🎥 TEDx Talk: Finding a Home for Your Story
 **"The future of our fragile planet hangs by the breath of your story. Stories that you choose to believe in."**
 
