@@ -52,8 +52,8 @@ Envisioned to be the home of music encompassing the land, from the Himalayas to 
 ---
 
 #### **Vibe Bharat (Single)**
-The anthem of civilizational pride, blending modern sound with ancient spirit.  
-[**Watch & Listen**](vibe-bharat/README.md)
+A call for nation-building, self-discipline, and tech swaraj. This anthem of civilizational pride blends modern sound with the ancient spirit of Bharat.  
+[**Listen**](vibe-bharat/README.md)
 
 #### **Salik Shah Vol 1 (Album)**
 A chronological archive of Salik’s musical journey, beginning in his teens in Kathmandu. This collection of 10 Nepali-language songs serves as a sonic bridge between past and present, exploring the timeless themes of love, loss, and destiny.
