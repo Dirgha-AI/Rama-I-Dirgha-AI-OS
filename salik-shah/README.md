@@ -30,17 +30,17 @@ Through a fictional account of the discovery of the number **Zero**, Salik talks
 
 ---
 
-## 📚 Publications & Creative Work
+## 📚 [Publications](https://salikshah.com/publications/) & Creative Work
 
 ### Mithila Review
-**Founding Editor & Publisher**
+**Founding Editor & Publisher**  
+
 Salik is the founder of ***Mithila Review***, an international journal of science fiction and fantasy. He is committed to decentering speculative fiction from the West. The journal has won a Rhysling Award and featured interviews with legends like Cixin Liu and Ken Liu.
 
 ### Books
-*   **The Akhand Saga** – An anti-colonial epic science fantasy series (2025).
+*   **The Akhand Saga** – An anti-colonial epic science fantasy series ([Progress Report](https://salikshah.com/2025/11/akhand-saga-progress-report/), 2025).
 *   **Khas Pidgin** (2017) – Nominated for the Elgin Award (America, 2018).
 *   **The Story of India’s Partition: History Illustrated** (2017).
-*   **The Battles for Justice: No Country for Women** (2017).
 
 ---
 
