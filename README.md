@@ -2,37 +2,6 @@
 
 **Accelerating Abundance. Made in India, for the World.**
 
----
-
-### 🙏 The Foundational Prayer
-
-> ज्योतिःशिला सर्वगम् । जयावर्ष कुटुम्बकम् ॥  
-> ॐ सत्ये करुणायां न्याये विद्यते प्रेम शिवम् ॥  
-> 
-> *Jyotiḥśilā sarvagam | Jayāvarṣaṁ kuṭumbakam ||*  
-> *Om satye karuṇāyāṁ nyāye vidyate prema śivam ||*  
-> 
-> **The light of shila is all-pervading; the world is a family.**  
-> **In truth, compassion, and justice, love exists — auspicious and divine.**
-
----
-
-### 🏹 The Call of Bharat
-
-Dirgha is not a project that can be built by one; it is a call that has echoed through our history. It is a reflection of the ethos of Bharat—the understanding that greatness is built stone by stone. 
-
-Just as Lord Rama crossed the ocean by building a bridge with an army of contributors, each offering their unique strength, Dirgha follows the same sacred model: we are bringing together people and organizations to build the **Ram Setu for the Agentic Era**. 
-
-We are architecting fully indigenous, agentic, sovereign AI computers.  
-**Hardware. Silicon. Models. All Open. All Indian. For the whole world.**
-
-*Vasudhaiva Kutumbakam.*
-
-**Dirgha — Accelerate Abundance.**  
-🇮🇳💻🙏
-
----
-
 Welcome to the foundational architecture for **Dirgha AI OS** — the agentic operating system designed to serve as the secure, safe, and decentralized foundation for the new economy.
 
 At Dirgha, we believe that software is no longer scarce. The new bottleneck is *application* — deploying intelligence to real industries, workflows, and human problems. We are building a full-stack, vertically integrated company spanning **Computers, Robotics, and Rockets**, all running on an open-source, community-driven stack.
@@ -114,14 +83,42 @@ The physical and cryptoeconomic foundation.
 
 ---
 
-## 🌍 The Mission
+## 🌍 Mission & Values
+
 In the legacy economy, value accrued to those who wrote software. In the agentic economy, value accrues to those who can autonomously orchestrate work. Our mission is to provide the infrastructure layer for sovereign compute globally — secure, open, and decentralized.
 
 **Live platform:** [dirgha.ai](https://dirgha.ai)  
 **Partnerships:** [partner@dirgha.ai](mailto:partner@dirgha.ai)  
 **Contributing:** Each repository ships a `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md`.
 
-**Dirgha — Accelerate Abundance. Built in India, for the world.**
+---
+
+### 🙏
+
+> ज्योतिःशिला सर्वगम् । जयावर्ष कुटुम्बकम् ॥  
+> ॐ सत्ये करुणायां न्याये विद्यते प्रेम शिवम् ॥  
+> 
+> *Jyotiḥśilā sarvagam | Jayāvarṣaṁ kuṭumbakam ||*  
+> *Om satye karuṇāyāṁ nyāye vidyate prema śivam ||*  
+> 
+> **The light of shila is all-pervading; the world is a family.**  
+> **In truth, compassion, and justice, love exists — auspicious and divine.**
+
+---
+
+### 🏹 The Call of Bharat
+
+Dirgha is not a project that can be built by one; it is a call that has echoed through our history. It is a reflection of the ethos of Bharat—the understanding that greatness is built stone by stone. 
+
+Just as Lord Rama crossed the ocean by building a bridge with an army of contributors, each offering their unique strength, Dirgha follows the same sacred model: we are bringing together people and organizations to build the **Ram Setu for the Agentic Era**. 
+
+We are architecting fully indigenous, agentic, sovereign AI computers.  
+**Hardware. Silicon. Models. All Open. All Indian. For the whole world.**
+
+*Vasudhaiva Kutumbakam.*
+
+**Dirgha — Accelerate Abundance.**  
+🇮🇳💻🙏
 
 ---
 
