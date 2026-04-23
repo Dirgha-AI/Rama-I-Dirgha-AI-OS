@@ -1,13 +1,13 @@
 # Salik Shah
 **Founder & CEO, Dirgha AI**
-**Self-Taught Polymath | Writer | Technologist | Publisher**
+**Self-Taught [Polymath](INTERVIEW_YEMBARWAR.md) | Writer | Technologist | Publisher**
 
 [LinkedIn](https://www.linkedin.com/in/salikshah/) | [salikshah.com](https://salikshah.com) | [partner@dirgha.ai](mailto:partner@dirgha.ai)
 
 ---
 
 ## 🚀 Professional Profile
-Salik Shah is a self-taught polymath, writer, and technologist architecting the foundational infrastructure for the Agentic Era. As the founder of **Dirgha AI**, he is leading a vertically integrated company to leapfrog deeptech innovation and skill set across multiple industries, including AI Computers, Robotics, and Rockets, with the mission to **Accelerate Abundance**.
+Salik Shah is a self-taught [polymath](INTERVIEW_YEMBARWAR.md), writer, and technologist architecting the foundational infrastructure for the Agentic Era. As the founder of **Dirgha AI**, he is leading a vertically integrated company to leapfrog deeptech innovation and skill set across multiple industries, including AI Computers, Robotics, and Rockets, with the mission to **Accelerate Abundance**.
 
 He is the founding editor of ***Mithila Review***, India's first international journal of science fiction and fantasy (2015), and the founder of the forthcoming **Gita Prize**, designed to recognize contributions in science and technology. His work focuses on "Purposeful Open Source"—building a decentralized, sovereign alternative to Big Tech monopolies.
 
@@ -25,17 +25,12 @@ Through a fictional account of the discovery of the number **Zero**, Salik talks
 
 ---
 
-## 🎙️ Interviews
-*   **[Salik Shah: The Polymath of Speculative Fiction and Engineering](https://www.yembarwar.com/blog/salik-shah-interview/)** — An in-depth conversation on bridging narrative, world-building, and technological infrastructure.
-*   **[Interview with Cixin Liu](interview-with-cixin-liu/ENGLISH.md)** — A bilingual discussion on global SF and human civilization.
-
----
-
 ## 📚 Publications & Creative Work
 
 ### Mithila Review
 **Founding Editor & Publisher**
 Salik is the founder of ***Mithila Review***, an international journal of science fiction and fantasy. He is committed to decentering speculative fiction from the West. The journal has won a Rhysling Award and featured interviews with legends like Cixin Liu and Ken Liu.
+*   **[Interview with Cixin Liu](interview-with-cixin-liu/ENGLISH.md)** — A bilingual discussion on global SF and human civilization.
 
 ### Books
 *   **The Akhand Saga** – An anti-colonial epic science fantasy series (2025).
