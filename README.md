@@ -98,20 +98,21 @@ The physical and cryptoeconomic foundation.
 
 ---
 
-## 🌍 The Mission: Accelerate Abundance
+## 🌍 The Mission
+In the legacy economy, value accrued to those who wrote software. In the agentic economy, value accrues to those who can autonomously orchestrate work. Our mission is to provide the infrastructure layer for sovereign compute globally — secure, open, and decentralized.
 
-In the legacy economy, value accrued to those who wrote software. In the agentic economy, value accrues to those who can autonomously orchestrate work.
+**Live platform:** [dirgha.ai](https://dirgha.ai)  
+**Partnerships:** [partner@dirgha.ai](mailto:partner@dirgha.ai)  
+**Contributing:** Each repository ships a `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md`.
 
-Our mission is to provide the infrastructure layer for sovereign compute globally—ensuring a secure, open, and decentralized future for the agentic era.
+**Dirgha — Accelerate Abundance. Built in India, for the world.**
 
-**Dirgha — Accelerate Abundance. Build to Last.**
-
-Read our **[Values, Ethos & Mission: The Dirgha Core](VALUES_ETHOS_MISSION.md)** to see how we are building the bedrock for a Type I Civilization.
+---
 
 ### 🧬 Founder & Vision
-Dirgha AI is founded by **Salik Shah**, a creative technologist, filmmaker, and the architect behind the **Gita Prize** and **Akhand Saga**.
+Dirgha AI is founded by **Salik Shah**, a self-taught polymath, writer, and technologist.
 *   **[Salik Shah: Biography & Professional Profile](salik-shah/README.md)**
-*   **[Why Salik Shah? Connecting the Dots to Dirgha](salik-shah/WHY_SALIK_SHAH.md)** — Analysis of his trajectory from storytelling to civilizational engineering.
+*   **[Why Salik Shah? Connecting the Dots to Dirgha](salik-shah/WHY_SALIK_SHAH.md)** — The Architect’s Intent.
 *   **[TEDx Talk: Finding a Home for Your Story](salik-shah/FINDING_A_HOME_FOR_YOUR_STORY.md)** — The narrative of zero and the foundation of abundance.
 *   **[Vibe Bharat: The Official Anthem](vibe-bharat/README.md)** — A call for **AI Swaraj** and digital sovereignty.
 
@@ -121,5 +122,4 @@ Dirgha AI is founded by **Salik Shah**, a creative technologist, filmmaker, and 
 ---
 
 ### Legend
-
-> **\*** Items marked with an asterisk are on the committed roadmap and in active development toward public launch. All items reflect the full Dirgha vision; asterisked items are not yet shipping in production. What *is* shipping today runs at [dirgha.ai/app](https://dirgha.ai/app) (chat, IDE, writer, creator, research, library, marketplace, education modules) with a TypeScript/Hono gateway, Python/LangGraph agent-server, and a CLI distributed as `@dirgha/cli`.
+> **\*** Items marked with an asterisk are on the committed roadmap and in active development toward public launch. All items reflect the full Dirgha vision; asterisked items are not yet shipping in production. Released modules and existing infrastructure run at [dirgha.ai](https://dirgha.ai).
