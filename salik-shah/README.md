@@ -1,13 +1,12 @@
 # Salik Shah
 **Founder, Dirgha AI**
-**[Polymath](INTERVIEW_YEMBARWAR.md) | Writer | Technologist**
 
-[LinkedIn](https://www.linkedin.com/in/salikshah/) | [salikshah.com](https://salikshah.com) | [partner@dirgha.ai](mailto:partner@dirgha.ai)
+[X: @salik](https://x.com/salik) | [LinkedIn](https://www.linkedin.com/in/salikshah/) | [salikshah.com](https://salikshah.com) | [partner@dirgha.ai](mailto:partner@dirgha.ai)
 
 ---
 
 ## 🚀 Professional Profile
-Salik Shah is a [polymath](INTERVIEW_YEMBARWAR.md)—a self-taught writer and technologist architecting the foundational infrastructure for the Agentic Era. As the founder of **Dirgha AI**, he is leading a vertically integrated company to leapfrog deeptech innovation and skill set across multiple industries, including AI Computers, Robotics, and Rockets, with the mission to **Accelerate Abundance**.
+Salik Shah is a [polymath](INTERVIEW_YEMBARWAR.md), self-taught writer and technologist architecting the foundational infrastructure for the Agentic Era. As the founder of **Dirgha AI**, he is leading a vertically integrated company to leapfrog deeptech innovation and skill set across multiple industries, including AI Computers, Robotics, and Rockets, with the mission to **Accelerate Abundance**.
 
 He is the founding editor of ***Mithila Review***, India's first international journal of science fiction and fantasy (2015), and the founder of the forthcoming **Gita Prize**, designed to recognize contributions in science and technology. His work focuses on "Purposeful Open Source"—building a decentralized, sovereign alternative to Big Tech monopolies.
 
