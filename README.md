@@ -17,6 +17,22 @@
 
 ---
 
+### 🏹 The Call of Bharat
+
+Dirgha is not a project that can be built by one; it is a call that has echoed through our history. It is a reflection of the ethos of Bharat—the understanding that greatness is built stone by stone. 
+
+Just as Lord Rama crossed the ocean by building a bridge with an army of contributors, each offering their unique strength, Dirgha follows the same sacred model: we are bringing together people and organizations to build the **Ram Setu for the Agentic Era**. 
+
+We are architecting fully indigenous, agentic, sovereign AI computers.  
+**Hardware. Silicon. Models. All Open. All Indian. For the whole world.**
+
+*Vasudhaiva Kutumbakam.*
+
+**Dirgha — Accelerate Abundance.**  
+🇮🇳💻🙏
+
+---
+
 Welcome to the foundational architecture for **Dirgha AI OS** — the agentic operating system designed to serve as the secure, safe, and decentralized foundation for the new economy.
 
 At Dirgha, we believe that software is no longer scarce. The new bottleneck is *application* — deploying intelligence to real industries, workflows, and human problems. We are building a full-stack, vertically integrated company spanning **Computers, Robotics, and Rockets**, all running on an open-source, community-driven stack.
