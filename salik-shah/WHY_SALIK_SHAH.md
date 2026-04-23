@@ -1,8 +1,9 @@
 # The Architect’s Intent: From Speculative Fiction to Civilizational Engineering
 **X: [@salik](https://x.com/salik) | [Press Kit / Photographs](README.md#%EF%B8%8F-press-kit-photographs)**
 
-The transition from a science fiction publisher to the architect of an Agentic OS is not a pivot—it is the unification of a life spent at the frontier.
- I am a **polymath and a self-taught writer-technologist**; I grew up in the "secret alphabets" of the digital world before I ever published a poem. 
+![Salik Shah](assets/portrait-3.jpg)
+
+The transition from a science fiction publisher to the architect of an Agentic OS is not a pivot—it is the unification of a life spent at the frontier. I am a **polymath and a self-taught writer-technologist**; I grew up in the "secret alphabets" of the digital world before I ever published a poem. 
 
 The question of "Why Salik Shah?" is answered by a career spent orchestrating complex systems—whether they were social movements, national narratives, or software architectures.
 
@@ -13,7 +14,7 @@ Dirgha is a philosophy born out of a singular conviction: the necessity of secur
 
 *   **Social Sovereignty (The Jaago Re! Era):** Before "Growth Hacking" was a buzzword, I was architecting mass mobilization. Leading the digital strategy for Tata Group’s **Jaago Re!** wasn't just marketing; it was an exercise in waking up a nation's conscience through decentralized narrative. I learned how to move a billion people toward a shared purpose.
 *   **Narrative Resilience (The Mumbai Documentaries):** Working on the **Mumbai Terror Attacks documentary for National Geographic** forced me to look into the heart of our most difficult stories. I understood that building for the future requires an architecture that can withstand the deepest disruptions. 
-*   **Technological Sovereignty (Dirgha AI):** Dirgha is the hardened solution to the fragilities I identified in journalism and communications. By building a vertically integrated stack—from **Jaya** to **Rama I**—we are ensuring that the "Intelligence of the Next Billion" is not a leased asset, but a sovereign right.
+*   **Technological Sovereignty (Dirgha AI):** Dirgha is the hardened solution to the fragilities I identified in journalism and communications. By building a vertically integrated stack—from **Jaya** to **Rama I**— we are ensuring that the "Intelligence of the Next Billion" is not a leased asset, but a sovereign right.
 
 ---
 
@@ -50,4 +51,3 @@ We are architecting fully indigenous, agentic, sovereign AI computers.
 
 **Dirgha — Accelerate Abundance.**
 🇮🇳💻🙏
-

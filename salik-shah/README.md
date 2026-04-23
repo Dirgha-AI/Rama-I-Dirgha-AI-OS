@@ -24,12 +24,17 @@ Through a fictional account of the discovery of the number **Zero**, Salik talks
 
 ---
 
+## 🎙️ Interviews
+*   **[Salik Shah: The Polymath of Speculative Fiction and Engineering](INTERVIEW_YEMBARWAR.md)** — An in-depth conversation on bridging narrative, world-building, and technological infrastructure.
+*   **[Interview with Cixin Liu](interview-with-cixin-liu/ENGLISH.md)** — A bilingual discussion on global SF and human civilization.
+
+---
+
 ## 📚 Publications & Creative Work
 
 ### Mithila Review
 **Founding Editor & Publisher**
 Salik is the founder of ***Mithila Review***, an international journal of science fiction and fantasy. He is committed to decentering speculative fiction from the West. The journal has won a Rhysling Award and featured interviews with legends like Cixin Liu and Ken Liu.
-*   **[Interview with Cixin Liu](interview-with-cixin-liu/ENGLISH.md)** — A bilingual discussion on global SF and human civilization.
 
 ### Books
 *   **The Akhand Saga** – An anti-colonial epic science fantasy series (2025).
@@ -58,9 +63,9 @@ Envisioned to be the home of music encompassing the land, from the Himalayas to 
 ---
 
 ## 🖼️ Press Kit (Photographs)
-*   [Portrait 1](https://salikshah.com/wp-content/uploads/2018/06/Salik-Shah_18.jpg)
-*   [Portrait 2](https://salikshah.com/wp-content/uploads/2011/11/Salik-Shah.jpg)
-*   [Portrait 3](https://salikshah.com/wp-content/uploads/2018/06/Salik_Khoj-17.jpg)
+*   [Portrait 1](assets/portrait-1.jpg)
+*   [Portrait 2](assets/portrait-2.jpg)
+*   [Portrait 3](assets/portrait-3.jpg)
 
 ---
 
