@@ -110,7 +110,7 @@ In the legacy economy, value accrued to those who wrote software. In the agentic
 
 Dirgha is not a project that can be built by one; it is a call that has echoed through our history. It is a reflection of the ethos of Bharat—the understanding that greatness is built stone by stone. 
 
-Just as Lord Rama crossed the ocean by building a bridge with an army of contributors, each offering their unique strength, Dirgha follows the same sacred model: we are bringing together people and organizations to build the **Ram Setu for the Agentic Era**. 
+Ambitious work is rarely done alone. Dirgha is a **bridge** — built stone by stone, by many hands. We are bringing together people and organizations, each offering their unique strength, to build open, sovereign, agentic infrastructure for the new era. 
 
 We are architecting fully indigenous, agentic, sovereign AI computers.  
 **Hardware. Silicon. Models. All Open. All Indian. For the whole world.**
