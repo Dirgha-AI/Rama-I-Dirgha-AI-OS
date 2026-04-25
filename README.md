@@ -1,28 +1,27 @@
-# Dirgha AI OS — The Agentic Operating System
+# Rama I — Dirgha AI OS
 
-**Accelerating Abundance. Made in India, for the World.**
+**Vision & roadmap for our agentic, sovereign AI operating system.**
 
-Welcome to the foundational architecture for **Dirgha AI OS** — the agentic operating system designed to serve as the secure, safe, and decentralized foundation for the new economy.
+This repository is the **public plan** for Dirgha AI OS — Android, iOS, or Windows reimagined for the agent era. Series I of the Rama line.
 
-At Dirgha, we believe that software is no longer scarce. The new bottleneck is *application* — deploying intelligence to real industries, workflows, and human problems. We are building a full-stack, vertically integrated company spanning **Computers, Robotics, and Rockets**, all running on an open-source, community-driven stack.
+It is not yet released. What lives here is the architecture, the roadmap, the working principles, and the engineering depth that ties our software ecosystem (`dirgha-code`, `writer-studio`, `creator-studio`, `abundance-protocol`, `arniko`) to our hardware ambitions.
 
-This repository outlines our engineering depth, architectural vision, and the roadmap that unites our hardware ambitions (**Rama I**) with our software ecosystem.
+We believe software is no longer the bottleneck. The bottleneck is *application* — deploying agentic intelligence into real industries, real workflows, real problems. Dirgha AI OS is our long-form bet on how that gets done: open-source, community-driven, sovereign by default.
 
 ---
 
-## 🛠️ Current Ecosystem
+## 🛠️ The Ecosystem
 
-We are currently building and preparing several core repositories for public launch under the [Dirgha-AI GitHub organization](https://github.com/Dirgha-AI). These are the building blocks of the Dirgha AI OS:
+These are the products that ship under the [Dirgha-AI GitHub organization](https://github.com/Dirgha-AI), and which Rama I will eventually integrate into one OS:
 
-| Repository | Status | Description |
+| Repo | What it does | Status |
 |---|---|---|
-| [**Abundance Protocol**](https://github.com/Dirgha-AI/abundance-protocol)\* | Private (TS) | Peer-to-peer compute network. Nodes share GPU/CPU capacity for AI inference, coordinate through a gossipsub mesh, and settle value. |
-| [**Arniko**](https://github.com/Dirgha-AI/arniko) | Private (TS) | Security scanner and red-teaming agent for the agentic operating system. Apache 2.0. |
-| [**Dirgha Code**](https://github.com/Dirgha-AI/dirgha-code) | Private (TS) | Autonomous software engineering and code generation agent. |
-| [**Creator Studio**](https://github.com/Dirgha-AI/creator-studio)\* | Private (TS) | AI-native media and creative production workspace. |
-| [**Writer Studio**](https://github.com/Dirgha-AI/writer-studio) | Private (TS) | AI-native document and content workspace. |
-| [**Rama I Challenge**](https://github.com/Dirgha-AI/Rama-I-Dirgha-AI-OS)\* | Private | The open challenge to build India's first assembled-in-India sovereign computer. Apache 2.0. |
-| [**.github**](https://github.com/Dirgha-AI/.github) | Public | Community profiles and foundational GitHub configurations. Apache 2.0. |
+| [**dirgha-code**](https://github.com/Dirgha-AI/dirgha-code) | AI coding agent for your terminal. Your keys, your machine, any model. | Released |
+| [**writer-studio**](https://github.com/Dirgha-AI/writer-studio) | Long-form writing studio — science, fiction, screenplays, research. Outline, manuscript, voice, and agents in one workspace. | Building |
+| [**creator-studio**](https://github.com/Dirgha-AI/creator-studio) | Creator workspace — agents handle the production, posting, and monetization grind. | Building |
+| [**abundance-protocol**](https://github.com/Dirgha-AI/abundance-protocol) | Decentralized compute and labor network. Rent GPUs, run agents, settle on Bitcoin. | Building |
+| [**arniko**](https://github.com/Dirgha-AI/arniko) | AI security scanner. Every tool, one unified report. | Building |
+| [**Rama I — Dirgha AI OS**](https://github.com/Dirgha-AI/Rama-I-Dirgha-AI-OS) | This repo. Vision & roadmap for the agentic, sovereign AI operating system. | Roadmap |
 
 ---
 
