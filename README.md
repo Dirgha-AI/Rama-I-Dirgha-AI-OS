@@ -40,6 +40,13 @@ Dirgha is the "Linux moment" for the Agentic Era—an open-source, sovereign fou
 
 ---
 
+## 🌱 The Seed: Why the CLI Comes First
+Every operating system starts with a kernel. **[Dirgha Code](https://github.com/Dirgha-AI/dirgha-code)** — the open-source command-line agent — is the kernel of Dirgha AI OS. It is the smallest, most installable, most hackable piece of the system: 543 KB, one install command, 17 LLM providers, runs offline with local models, ships under FSL→MIT.
+
+Read **[Why Bharat Needs a Sovereign Coding CLI](WHY_BHARAT_NEEDS_DIRGHA_CLI.md)** for the strategic case — including concrete latency numbers from Bengaluru, the cost structure for self-taught developers in Tier-2 cities, the layered view of AI sovereignty, and an honest list of what the CLI does *not* solve.
+
+---
+
 ## 🗺️ Competitive Landscape & Roadmap
 Curious how we stack up against the top 50 tech giants (Google, Apple, Microsoft, NVIDIA, etc.)? 
 *   **[360° Competitive Landscape: Dirgha vs. The Giants](COMPETITIVE_LANDSCAPE.md)** 
